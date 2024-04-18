@@ -14,7 +14,7 @@ public class HojaTareas8 {
 
 	public static void main(String[] args) throws HoraNoValida {
 		
-		
+		System.out.println("Hola mundo");
 		
 	}
 	public static void ejercicio1y2() throws HoraNoValida {
